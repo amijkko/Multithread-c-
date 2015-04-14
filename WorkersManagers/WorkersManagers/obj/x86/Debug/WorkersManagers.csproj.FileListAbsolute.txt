@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2010\Projects\WorkersManagers\WorkersManagers\bin\Debug\WorkersManagers.exe
+c:\users\user\documents\visual studio 2010\Projects\WorkersManagers\WorkersManagers\bin\Debug\WorkersManagers.pdb
+c:\users\user\documents\visual studio 2010\Projects\WorkersManagers\WorkersManagers\obj\x86\Debug\WorkersManagers.exe
+c:\users\user\documents\visual studio 2010\Projects\WorkersManagers\WorkersManagers\obj\x86\Debug\WorkersManagers.pdb
+C:\Users\Александр\Dropbox\WorkersManagers\WorkersManagers\obj\x86\Debug\WorkersManagers.exe
+C:\Users\Александр\Dropbox\WorkersManagers\WorkersManagers\obj\x86\Debug\WorkersManagers.pdb
