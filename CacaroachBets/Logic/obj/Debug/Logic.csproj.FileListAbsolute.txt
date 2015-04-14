@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\Logic\bin\Debug\Logic.dll
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\Logic\bin\Debug\Logic.pdb
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\Logic\obj\Debug\Logic.dll
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\Logic\obj\Debug\Logic.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\CacaroachBets\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\CacaroachBets\Logic\bin\Debug\Logic.dll
+C:\Users\User\Dropbox\CacaroachBets\Logic\bin\Debug\Logic.pdb
+C:\Users\User\Dropbox\CacaroachBets\Logic\obj\Debug\Logic.dll
+C:\Users\User\Dropbox\CacaroachBets\Logic\obj\Debug\Logic.pdb

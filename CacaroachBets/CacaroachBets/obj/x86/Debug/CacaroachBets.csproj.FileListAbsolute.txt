@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\CacaroachBets\bin\Debug\CacaroachBets.exe
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\CacaroachBets\bin\Debug\CacaroachBets.pdb
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\CacaroachBets\bin\Debug\Logic.dll
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\CacaroachBets\bin\Debug\Logic.pdb
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.exe
+c:\users\user\documents\visual studio 2010\Projects\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.pdb
+C:\Users\User\Dropbox\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.exe
+C:\Users\User\Dropbox\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.pdb
+C:\Users\User\Dropbox\CacaroachBets\CacaroachBets\bin\Debug\CacaroachBets.exe
+C:\Users\User\Dropbox\CacaroachBets\CacaroachBets\bin\Debug\CacaroachBets.pdb
+C:\Users\User\Dropbox\CacaroachBets\CacaroachBets\bin\Debug\Logic.dll
+C:\Users\User\Dropbox\CacaroachBets\CacaroachBets\bin\Debug\Logic.pdb
+C:\Users\User\Dropbox\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.Properties.Resources.resources
+C:\Users\User\Dropbox\CacaroachBets\CacaroachBets\obj\x86\Debug\CacaroachBets.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\CacaroachBets\CacaroachBets\obj\x86\Debug\Nikolaev.WorkSpace.Roachs.resources

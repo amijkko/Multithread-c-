@@ -1,0 +1,14 @@
+Form load
+{
+this.doubleBuffered = true;
+this.Paint += new PainteventArgs(Form1_paint);
+}
+private void Form1_Paint(object sencer,systems.forms.PaintEventArgs)
+{
+e.graphics.
+
+}
+private void Timer1_Tick(object sender,EventArgs e)
+{
+this.Refresh();
+}
