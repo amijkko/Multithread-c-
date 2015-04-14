@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2010\Projects\BusyShop\Logic\bin\Debug\Logic.dll
+c:\users\user\documents\visual studio 2010\Projects\BusyShop\Logic\bin\Debug\Logic.pdb
+c:\users\user\documents\visual studio 2010\Projects\BusyShop\Logic\obj\Debug\Logic.dll
+c:\users\user\documents\visual studio 2010\Projects\BusyShop\Logic\obj\Debug\Logic.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\BusyShop\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Dropbox\BusyShop\Logic\bin\Debug\Logic.dll
+C:\Users\Александр\Dropbox\BusyShop\Logic\bin\Debug\Logic.pdb
+C:\Users\Александр\Dropbox\BusyShop\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Dropbox\BusyShop\Logic\obj\Debug\Logic.dll
+C:\Users\Александр\Dropbox\BusyShop\Logic\obj\Debug\Logic.pdb
